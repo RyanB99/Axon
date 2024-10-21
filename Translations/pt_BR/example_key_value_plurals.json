@@ -1,0 +1,15 @@
+{
+    "join": "Participar",
+    "nest": {
+      "split": "Dividir",
+      "another_nest": {
+        "split": "Dividir"
+      },
+    "list": ["Lista", "Valores", {"JSON": {"Embedded": "Documento"}}]
+    },
+    "files": "{count, plural, one {{count} arquivo.} many {{count} arquivos.} other {{count} arquivos.}}",
+    "posts.replies.load.more": "{count, plural, one {{count} mais resposta} many {{count} mais respostas} other {{count} mais respostas}}",
+    "login": "Entrar",
+    "actor.male": "Ator",
+    "actor.female":"Atriz"
+}
