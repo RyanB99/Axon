@@ -1,0 +1,14 @@
+{
+    "0old": {
+        "message": "Esta é uma string de origem",
+        "description": ""
+    },
+    "choosedocs": {
+        "message": "Este é meu primeiro projeto",
+        "description": ""
+    },
+    "2": {
+        "message": "Poderia me ajudar, por favor?",
+        "description": "This is a developer note"
+    }
+}
