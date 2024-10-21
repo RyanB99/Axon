@@ -1,0 +1,14 @@
+{
+    "TR_LD_TODAY":{
+        "string":"Hoje",
+        "context":"HOJE é usado para rotular um botão e principalmente para testes3"
+    },
+    "TR_LD_WEEK":{
+        "string": "Semana",
+        "context": "SEMANA é usada para rotular um botão no Detalhe para teste 3"
+    },
+    "TR_LD_PROJECT_ERROR":{
+        "string":"Erro ao carregar as informações de configuração.",
+        "context":"A frase é exibida quando o arquivo de configuração do projeto não pode ser carregado, seja por não existir ou por conter um erro. Esta é exibida em uma linha separada."
+    }
+}
